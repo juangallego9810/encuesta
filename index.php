@@ -23,7 +23,7 @@
   <a href="student/"><button class='white ripple' ripple-color='white'>Acceso de Estudiante</button></a>
 </div>
 
-
+	<h1>Prueba de Github</h1>
 </body>
 
 </html>
